@@ -16,7 +16,7 @@
 <td>
 
 ```cpp
-#include "Me.h"
+#include "Profile.h"
 
 std::map<std::string, std::regex> Response = {
   { RESPONSES::HI_NAME, 
@@ -27,6 +27,8 @@ std::map<std::string, std::regex> Response = {
 
 int main(void)
 {
+  Mikerrageous Me();
+
   std::string Interaction;
   while (!sInteraction.empty())
   {
