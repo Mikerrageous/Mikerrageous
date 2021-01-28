@@ -28,7 +28,6 @@
 
 <h3 align="left">My Source Code:</h3>
 
-<p align="center"> 
 <table>
 <tr>
 <th>Profile.cpp</th>
@@ -68,4 +67,3 @@ public:
 </td>
 </tr>
 </table>
-</p>
