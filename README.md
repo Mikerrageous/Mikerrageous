@@ -18,9 +18,9 @@
 ```cpp
 #include "Me.h"
 
-std::map<std::string, std::regex> Response_Map = {
-  { HI_NAME       , std::regex("([Hh]i)|([Hh]ello)\\smy\\sname\\sis\\s(.+)")  },
-  { IM_WELL      , std::regex("[Hh]ow\\sare\\syou.")},
+std::map<std::string, std::regex> Response = {
+  { HI_NAME, std::regex("([Hh]i)|([Hh]ello)\\smy\\sname\\sis\\s(.+)")  },
+  { IM_WELL, std::regex("[Hh]ow\\sare\\syou.")},
 };
 
 int main(void)
@@ -29,7 +29,7 @@ int main(void)
   while (!sInteraction.empty())
   {
     std::cin >> Interaction;
-    for (auto ite = Response_Map.begin(); ite != Response_Map.end(); ite++)
+    for (auto ite = Response.begin(); ite != Response.end(); ite++)
     {
       std::smatch Groups;
       if (std::regex_match(Interaction, Groups, ite->second))
@@ -37,7 +37,8 @@ int main(void)
         switch (ite->first)
         {
         case HI_NAME:
-          cout << "Hi" << Groups[1] << ", my name is Mike!" << std::endl;
+          cout << "Hi" << Groups[1] << 
+            ", my name is Mike!" << std::endl;
           break;
         case IM_WELL:
           cout << "I'm well, thanks. How are you?" << std::endl;
