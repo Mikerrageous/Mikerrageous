@@ -64,8 +64,7 @@ int main(void)
 enum class RESPONSES
 {
   HI_NAME,
-  IM_GREAT,
-  HOW_ARE_YOU
+  IM_GREAT
 };
 
 class Mikerrageous : private cLife
