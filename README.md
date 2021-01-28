@@ -7,6 +7,47 @@
 
 - 📫 How to reach me **kerr.michaelandrew@gmail.com**
 
+<table>
+<tr>
+<th>Me.cpp</th>
+<th>Me.h</th>
+</tr>
+<tr>
+<td>
+
+```cpp
+#include "Me.h"
+
+int main(void)
+{
+  // TODO
+
+  return 0;
+}
+```
+</td>
+<td>
+
+```cpp
+#include <Life>
+
+class Mikerrageous : Private Life
+{
+private:
+  std::vector<std::string> vsSecrets;
+  friend std::string GetSecret(bool bAskedNicely);
+  
+protected:
+  uint8_t 
+
+public:
+  static void Email(std::string);
+};
+```
+
+</td>
+</tr>
+</table>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
