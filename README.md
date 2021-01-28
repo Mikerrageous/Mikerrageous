@@ -19,9 +19,9 @@
 #include "Me.h"
 
 std::map<std::string, std::regex> Response = {
-  { HI_NAME, 
+  { RESPONSES::HI_NAME, 
     std::regex("([Hh]i)|([Hh]ello)\\smy\\sname\\sis\\s(.+)")  },
-  { IM_WELL, 
+  { RESPONSES::IM_WELL, 
     std::regex("[Hh]ow\\sare\\syou.")},
 };
 
