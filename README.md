@@ -26,10 +26,9 @@
 </p>
 
 
-<h3 align="left">My Internal Code:</h3>
+<h3 align="left">My Source Code:</h3>
 
-<center>
-<table>
+<table class="center">
 <tr>
 <th>Profile.cpp</th>
 <th>Profile.h</th>
@@ -68,4 +67,3 @@ public:
 </td>
 </tr>
 </table>
-</center>
