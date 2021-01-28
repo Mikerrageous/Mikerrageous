@@ -18,42 +18,12 @@
 ```cpp
 #include "Profile.h"
 
-std::map<std::string, std::regex> Response = {
-  { RESPONSES::HI_NAME, 
-    std::regex("([Hh]i)|([Hh]ello)\\smy\\sname\\sis\\s(.+)")  },
-  { RESPONSES::IM_WELL, 
-    std::regex("[Hh]ow\\sare\\syou.")},
-};
-
 int main(void)
 {
   Mikerrageous Me();
-
-  std::string Interaction;
-  while (!sInteraction.empty())
-  {
-    std::cin >> Interaction;
-    for ( auto ite = Response.begin(); 
-          ite != Response.end(); ite++)
-    {
-      std::smatch Groups;
-      if (std::regex_match(Interaction, Groups, ite->second))
-      {
-        switch (ite->first)
-        {
-        case HI_NAME:
-          cout << "Hi" << Groups[1] << 
-            ", my name is Mike!" << std::endl;
-          break;
-        case IM_WELL:
-          cout << "I'm well, thanks. How are you?" << 
-            std::endl;
-          break;
-        }
-      }
-    }
-  }
-
+  
+  Me.DoStuff();
+  
   return 0;
 }
 ```
@@ -63,23 +33,10 @@ int main(void)
 ```cpp
 #include <Life.h>
 
-enum class RESPONSES
+class Mikerrageous : public Life
 {
-  HI_NAME,
-  IM_GREAT
-};
-
-class Mikerrageous : private cLife
-{
-private:
-  std::vector<std::string> Secrets;
-  std::vector<uint32_t> Passwords;    
-  
-protected:
-  std::vector<unsigned int> PhoneNumber;
-
 public:
-  static void Email(std::string);
+  void DoStuff();
  
   Mikerrageous() { Birth(); };
   ~Mikerrageous() { Death(); };
