@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Michael Kerr</h1>
 <h3 align="center">A software developer with an interest in robotics</h3>
 
-<p align="center"><img heigh="100" width="500" src="https://media.giphy.com/media/y3wBjXMffuFjy/giphy.gif" /></p>
-
 - 🔭 I’m currently working on **C++ & ROS Mobile Robots**
 
 - 🌱 I’m currently learning **Gazebo, RViz**
