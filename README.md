@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Michael Kerr</h1>
 <h2 align="center">A software developer with an interest in robotics</h2>
 
-- 🔭 I’m currently working on **C++ & ROS Mobile Robots**
+- 🔭 I’m currently working on mobile robot implementation in **ROS(2), Gazebo, & C++**
 
-- 🌱 I’m currently learning **Gazebo, RViz**
+- 🌱 I’m currently learning **Python Computer Vision, R Machine Learning, & Java**
 
 - 📫 How to reach me **kerr.michaelandrew@gmail.com**
 
