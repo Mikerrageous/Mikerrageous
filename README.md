@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a mobile robot implementation in **ROS(2), Gazebo, & C++**
 
-- 🌱 I’m currently learning **Python Computer Vision, R Machine Learning, & Java**
+- 🌱 I’m currently learning **Python Computer Vision & R Machine Learning**
 
 - 📫 How to reach me **kerr.michaelandrew@gmail.com**
 
