@@ -15,7 +15,7 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="Cplusplus" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="Csharp" width="40" height="40"/> </a> 
   <a href="https://cmake.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Cmake.svg" alt="CMake" width="40" height="40"/> </a> 
-  <a href="http://gazebosim.org/" target="_blank"> <img src="http://gazebosim.org/assets/logos/gazebo_icon_pos-76b768ca51b0c24a5e5ddeb5a844baf3a3efc83e42affae355ed6ce9326707e4.svg" alt="Gazebo" width="40" height="40"/> </a> 
+  <a href="http://gazebosim.org/" target="_blank"> <img src="https://gazebosim.org/assets/images/logos/gazebo_vert_pos.svg" alt="Gazebo" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://golang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="Go" width="40" height="40"/> </a> 
   <a href="https://www.javascript.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png" alt="JavaScript" width="40" height="40"/> </a> 
