@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michael Kerr</h1>
-<h2 align="center">A software developer with an interest in robotics</h2>
+<h2 align="center">An engineer at the Canadian Space Agency with an interest in robotics</h2>
 
-- 🔭 I’m currently working on a mobile robot implementation in **ROS(2), Gazebo, & C++**
+- 🔭 I’m currently working on a lunar mobile robotic implementations in **ROS(2), Gazebo, & C++**
 
 - 🌱 I’m currently learning **Python Computer Vision & R Machine Learning**
 
