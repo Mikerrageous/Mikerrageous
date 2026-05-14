@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael Kerr</h1>
-<h2 align="center">An engineer at the Canadian Space Agency with an interest in robotics</h2>
+<h2 align="center">An engineer with an interest in Configuration Management and Ethics</h2>
 
 - 🔭 I’m currently working on a web-app to assist with Configuration Management in **Python Django**
 
