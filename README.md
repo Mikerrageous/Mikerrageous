@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Michael Kerr</h1>
 <h2 align="center">An engineer at the Canadian Space Agency with an interest in robotics</h2>
 
-- 🔭 I’m currently working on a lunar mobile robotic implementations in **ROS(2), Gazebo, & C++**
+- 🔭 I’m currently working on a web-app to assist with Configuration Management in **Python Django**
 
-- 🌱 I’m currently learning **Python Computer Vision & R Machine Learning**
+- 🌱 I’m currently learning more about **Data Science & Workflows**
 
 - 📫 How to reach me **kerr.michaelandrew@gmail.com**
 
